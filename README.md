@@ -1,3 +1,4 @@
-# Default Health Files
+# .github
+@visma-raet organization-wide workflows and health files
 
-More info at [GitHub](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file)
+For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
