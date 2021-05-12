@@ -90,7 +90,6 @@ body:
     # FIXME: Once GitHub allows defining the default choice, update this
     options:
     - Feature Idea
-    - Repository Maintenance
   validations:
     required: true
 
