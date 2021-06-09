@@ -8,6 +8,7 @@
 - Bugfix Pull Request
 - Docs Pull Request
 - Feature Pull Request
+- Refactor Pull Request
 
 ## COMPONENT NAME
 <!--- Write the short name of the module, plugin, task or feature below -->
