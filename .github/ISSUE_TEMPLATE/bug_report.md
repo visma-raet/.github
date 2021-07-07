@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug report
+name: 🐛 Bug/Issue report
 about: Create a report to help us improve
 ---
 <!--- Verify first that your issue is not already reported on GitHub -->
@@ -12,6 +12,7 @@ about: Create a report to help us improve
 ## ISSUE TYPE
 
 - Bug Report
+- Issue Report
 
 ## COMPONENT NAME
 <!--- Write the short name of the module, plugin, task or feature below, use your best guess if unsure -->
@@ -34,8 +35,8 @@ about: Create a report to help us improve
 ## STEPS TO REPRODUCE
 <!--- Describe exactly how to reproduce the problem, using a minimal test-case -->
 
-<!--- Paste example playbooks or commands between quotes below -->
-```yaml
+<!--- Paste example code or commands between quotes below -->
+```paste below
 
 ```
 
